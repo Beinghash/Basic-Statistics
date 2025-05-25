@@ -4,7 +4,7 @@ Level: Beginner-friendly | 📁 Python | 🧮 Statistics | 📈 Data Analysis
 
 This repository contains hands-on project notes and code implementations based on real-world datasets, aimed at helping beginners understand basic statistical concepts through practical data analysis.
 
-#🧩 Part 1: Measures of Central Tendency – Wine Quality Dataset
+# 🧩 Part 1: Measures of Central Tendency – Wine Quality Dataset
 📂 File Included: Measure_of_Central_Tendency_Project.ipynb
 📊 Dataset: Wine Quality Dataset.csv
 
