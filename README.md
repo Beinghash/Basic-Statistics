@@ -1,4 +1,4 @@
-# 📊 Data Analysis Series – Basic Matplotlib – Real Case Study Projects
+# 📊 Data Analysis Series – Basic Statistics – Real Case Study Projects
 Series: Data Analysis Projects
 Level: Beginner-friendly | 📁 Python | 🧮 Statistics | 📈 Data Analysis
 
