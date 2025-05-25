@@ -1,10 +1,10 @@
-📊 Basic Statistics – Real Case Study Projects
+# 📊 Data Analysis Series – Basic Matplotlib – Real Case Study Projects
 Series: Data Analysis Projects
 Level: Beginner-friendly | 📁 Python | 🧮 Statistics | 📈 Data Analysis
 
 This repository contains hands-on project notes and code implementations based on real-world datasets, aimed at helping beginners understand basic statistical concepts through practical data analysis.
 
-🧩 Part 1: Measures of Central Tendency – Wine Quality Dataset
+#🧩 Part 1: Measures of Central Tendency – Wine Quality Dataset
 📂 File Included: Measure_of_Central_Tendency_Project.ipynb
 📊 Dataset: Wine Quality Dataset.csv
 
@@ -25,7 +25,7 @@ Task 3: Acid Type Analysis by Quality
 
 Construct a new pandas Series to analyze different acid types grouped by wine quality.
 
-📊 Part 2: Descriptive Statistics – Employee Dataset Case Study
+# 📊 Part 2: Descriptive Statistics – Employee Dataset Case Study
 📂 File Included: Descriptive_Statistics_Case_Study_Project.ipynb
 📊 Dataset: Employee Dataset.csv
 
