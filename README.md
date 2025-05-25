@@ -25,7 +25,7 @@ Task 3: Acid Type Analysis by Quality
 
 Construct a new pandas Series to analyze different acid types grouped by wine quality.
 
-# 📊 Part 2: Descriptive Statistics – Employee Dataset Case Study
+# 🧩 Part 2: Descriptive Statistics – Employee Dataset Case Study
 📂 File Included: Descriptive_Statistics_Case_Study_Project.ipynb
 📊 Dataset: Employee Dataset.csv
 
